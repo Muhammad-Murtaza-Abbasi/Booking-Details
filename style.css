@@ -1,0 +1,51 @@
+div.coloring{
+    background-color: gray;
+}
+
+
+span.size{
+    font-size: 150%;
+}
+
+
+span.sizingSmall{
+    font-size: 70%;
+}
+
+/* div.allColor{
+    background-color: darkturquoise;
+} */
+/* 
+table.allColoring{
+    background-color: darkturquoise; */
+/* } */
+
+tr.row2{
+    background-color:ghostwhite ;
+}
+
+
+tr.row4{
+    background-color:ghostwhite ;
+}
+
+td.footer{
+    background-color: darkturquoise;
+}
+ span.center{
+    align-items: ;
+ }
+div.bgcolor{
+    background-color:  gray;
+}
+input.green{
+    background-color: green;
+}
+
+input.red{
+    background-color: red;
+}  
+
+tr.white{
+    color: white;
+}
